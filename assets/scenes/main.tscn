@@ -7,5 +7,4 @@
 [node name="Camera2D" type="Camera2D" parent="."]
 
 [node name="Icon" type="Sprite2D" parent="."]
-position = Vector2(162, -140)
 texture = ExtResource("1_icbx7")
