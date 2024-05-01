@@ -11,8 +11,14 @@ config_version=5
 [application]
 
 config/name="Spaceships"
+run/main_scene="res://assets/scenes/main.tscn"
 config/features=PackedStringArray("4.2", "Mobile")
-config/icon="res://icon.svg"
+config/icon="res://assets/icon.svg"
+
+[display]
+
+window/size/viewport_width=648
+window/size/viewport_height=1152
 
 [rendering]
 
